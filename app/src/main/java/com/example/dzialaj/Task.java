@@ -9,13 +9,21 @@ public class Task {
     private Date date;
     private boolean done = false;
 
+    private Category category = Category.STUDIA;
+
     public Task() {
         id = UUID.randomUUID();
         date = new Date();
     }
+
+    public Category getCategory(){return category;}
+
+    public void setCategory(Category category){this.category = category;}
+
     public Date getDate() {
         return date;
     }
+    public void setDate(Date time){date = time;}
     public boolean isDone() {
         return done;
     }

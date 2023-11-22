@@ -1,3 +1,33 @@
 
 g
 7app/src/main/java/com/example/dzialaj/MainActivity.java,4\8\4822b8bc3382cadc5ea01b4e6b0671bd0fb89122
+G
+app/AndroidManifest.xml,0\d\0d79e41774357efa0c5665e7af9c8389af636a7d
+g
+7app/src/main/java/com/example/dzialaj/TaskFragment.java,d\0\d0bd9a5d37f015bc52469d76167bc9d287989a89
+_
+/app/src/main/java/com/example/dzialaj/Task.java,6\3\63c7cc36f6e565ea29788732141a043c51c46e89
+q
+Aapp/src/main/java/com/example/dzialaj/SingleFragmentActivity.java,0\9\09ce81ada6f6a673f5f3290191bb8c9c2b33a393
+k
+;app/src/main/java/com/example/dzialaj/TaskListActivity.java,a\e\aec66252b70a512b60085da600b30e9e72fe5523
+k
+;app/src/main/java/com/example/dzialaj/TaskListFragment.java,2\1\21d920da8aff5a235638d7e207315d466b48946c
+C
+settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+A
+gradle.properties,2\a\2afbb999f001938c88fa43fc2ef52abf0f8213e4
+X
+(gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+@
+local.properties,0\7\0712df971a99ac4d2fccb8e0fb19f377f3374cca
+F
+app/proguard-rules.pro,9\e\9e08934d811afe28fbc77aaa3c0d747b94348db9
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+f
+6app/src/main/java/com/example/dzialaj/TaskStorage.java,c\c\cc8da70512759fbe35d41264c08f590591194e06
